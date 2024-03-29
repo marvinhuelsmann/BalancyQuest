@@ -1,3 +1,7 @@
-### What is BalancyQuest?
+# What can you do in BalancyQuest?
 
-A game with medical benefits for your current satisfaction with Figma UI graphics and images as the layer background and a big love to the details in the foreground healthy questions like how you can get over something for example how you can get over a busy day. More levels like pirate theme or sci-fi scenery or western.
+BalancyQuest is a game with medical benefits for your current satisfaction with Figma UI graphics and images as the layer background and a big love to the details in the foreground healthy questions like how you can get over something for example how you can get over a busy day. More levels like pirate theme or sci-fi scenery or western.
+
+# Sotware used in the project
+
+In my Swift Playground you travel with "Greg" through the islands called "Dynamic Island" and "Healthy Island", in which you have to complete many small challenges in which you get fundamental information, in an exceptional situation - if you don't have an iPhone to help you survive or deal with nature. In a simply laid out story, you learn quickly and, if necessary, have a detailed explanation using information buttons. To make the experience as good as possible, I used a lot of different things. This includes the visual level for the individual minigames that I created in Figma. The tones that were composed by me in Garageband and the font that unites the whole theme. The AVFoundation Framework was used to play the sounds. In order to be able to draw the route with the Apple Pencil and your fingers, a canvas was placed over the graphic and then checked whether you had found the correct route. For the last challenge, the CIDetector was used to check whether you had both eyes closed in the captured image. With all these resources I tried to create the best experience with a common thread.
